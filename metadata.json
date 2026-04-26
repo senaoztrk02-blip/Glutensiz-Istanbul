@@ -1,0 +1,6 @@
+{
+  "name": "Glutensiz İstanbul",
+  "description": "İstanbul'daki glütensiz kafe ve marketleri keşfedin. Leaflet.js ve Nominatim API ile güçlendirilmiş interaktif harita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
